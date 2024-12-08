@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulkadir
 - 👀 I’m interested in data analysis and database 
-- 🌱 I’m currently learning MySQL, Python, Qgis, Oracle SQL
+- 🌱 I’m currently learning MySQL, Python
 - 📫 How to reach me abdulkadircopcu@gmail.com
 
 <!---
